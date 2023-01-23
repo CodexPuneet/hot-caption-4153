@@ -36,7 +36,7 @@
 
 <h1>View Deployment</h1>
 </hr>
-<h4>Checkout live website :https://boisterous-monstera-ea0196.netlify.app/</h4>
+<h4>Checkout live website :https://singular-faloodeh-f08e99.netlify.app/</h4>
 </hr>
 
 
